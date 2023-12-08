@@ -1,9 +1,9 @@
 public class Hello
 	{	
 
-		public void feature1()
+		public void fea1()
 		{
-			System.out.prontln("feature1");
+			System.out.prontln("fea1");
 		}
 
 		public static void main(String args[])
